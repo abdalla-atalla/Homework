@@ -18,7 +18,7 @@ public class AssistantJack {
     private int timesAsked;
     private Theory correctTheory;
 
-    /**
+    /**Changed
      * The default constructor but will not be called from outside.
      */
     private AssistantJack() {
