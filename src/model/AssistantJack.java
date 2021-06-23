@@ -27,7 +27,7 @@ public class AssistantJack {
     }
 
     /**
-     * Changes to filed
+     * Changes to filess
      * The full constructor, specifying which assistant to use (answer set 1,
      * answer set 2, or random). Depending on assistant, a different correct
      * Theory object is created.
